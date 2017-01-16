@@ -39,3 +39,6 @@ proguard/
 
 # emacs
 *~
+
+.idea/
+*.iml
